@@ -1,1 +1,11 @@
 /* Agrega tu Codigo aquí*/
+String('hola mundo')
+console.log('hola mundo')
+Number(33)
+console.log(33)
+String('me encanta programar!!')
+console.log('me encanta programar!!')
+Number(30.24)
+console.log(30.24)
+Number(3>2)
+console.log (3>2)
